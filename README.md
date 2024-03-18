@@ -1,6 +1,12 @@
-# cpp-cmake-template
+# example-boost-te
 
 ## About
+
+This is an example project using the [[Boost::ext].TE](https://github.com/boost-ext/te) library.
+
+## About Project Template
+
+### About
 
 A template for C++ projects using CMake.
 This repository includes settings for the following tools:
@@ -14,7 +20,7 @@ This repository includes settings for the following tools:
   - [CMake Tools (VSCode Extension)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
   - [C/C++ Include Guard (VSCode Extension)](https://marketplace.visualstudio.com/items?itemName=akiramiyakoda.cppincludeguard)
 
-## Directoris
+### Directoris
 
 The directory structure is based on [The Pitchfork Layout (PFL)](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs).
 (but there are some differences.)
